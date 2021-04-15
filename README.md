@@ -1,2 +1,2 @@
 # bounding-box-plot
-![DCENet](https://github.com/tanjatang/boun)
+![boxes](https://github.com/tanjatang/bounding-box-plot/blob/main/running%20example.png)
